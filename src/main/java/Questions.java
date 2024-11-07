@@ -19,6 +19,7 @@ public class Questions {
          * What line number represents the end of the "accelerate" method? 
          */
         return 14;
+        
     }
 
     String question3(){
