@@ -18,7 +18,7 @@ public class Questions {
          * 
          * What line number represents the end of the "accelerate" method? 
          */
-        return 14;
+        return 0;
         
     }
 
@@ -26,7 +26,7 @@ public class Questions {
         /* 
          * What datatype is expected to be returned in the "honk" method?
          */
-        return "String";
+        return "";
     }
     
 }
